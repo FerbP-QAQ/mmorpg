@@ -56,3 +56,18 @@ ipch/
 *.vsp
 *.vspx
 
+# Unity 日志 / 用户设置（每次运行都会变，不该进仓库）
+[Ll]og/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# 服务端编译输出
+[Ss]erver/**/[Bb]in/
+[Ss]erver/**/[Oo]bj/
+# NuGet 包用 packages.config 还原，不提交 dll 本体
+[Ss]erver/**/[Pp]ackages/
+
+# Unity 大盘点：场景/资源中间文件
+*.csproj.user
+*.unitypackage.meta.bak
+

@@ -4,7 +4,8 @@
     "Name": "战士",
     "Type": "Normal",
     "Class": "WARRIOR",
-    "Resource": "Character/Warrior",
+    "Resource": "Prefab/Warrior1",
+    "Description": "牛逼哄哄",
     "InitLevel": 1,
     "Speed": 300
   },
@@ -13,7 +14,8 @@
     "Name": "法师",
     "Type": "Normal",
     "Class": "WIZARD",
-    "Resource": "Character/Wizard",
+    "Resource": "Prefab/Wizard1",
+    "Description": "高等职业",
     "InitLevel": 1,
     "Speed": 300
   },
@@ -22,7 +24,8 @@
     "Name": "弓箭手",
     "Type": "Normal",
     "Class": "ARCHER",
-    "Resource": "Character/Archer",
+    "Resource": "Prefab/Archer",
+    "Description": "卑鄙小人",
     "InitLevel": 1,
     "Speed": 300
   },

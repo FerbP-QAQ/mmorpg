@@ -1,0 +1,186 @@
+{
+ "btn_enter_game": {
+  "rect": [
+   1,
+   2,
+   287,
+   82
+  ],
+  "border": [
+   20,
+   20,
+   22,
+   22
+  ]
+ },
+ "input_bar": {
+  "rect": [
+   288,
+   7,
+   189,
+   36
+  ],
+  "border": [
+   18,
+   18,
+   14,
+   14
+  ]
+ },
+ "txt_labels_row": {
+  "rect": [
+   0,
+   88,
+   418,
+   40
+  ],
+  "border": null
+ },
+ "btn_register": {
+  "rect": [
+   1,
+   126,
+   171,
+   82
+  ],
+  "border": [
+   20,
+   20,
+   22,
+   22
+  ]
+ },
+ "btn_login": {
+  "rect": [
+   172,
+   126,
+   177,
+   81
+  ],
+  "border": [
+   20,
+   20,
+   22,
+   22
+  ]
+ },
+ "txt_account": {
+  "rect": [
+   0,
+   212,
+   68,
+   37
+  ],
+  "border": null
+ },
+ "txt_password": {
+  "rect": [
+   69,
+   212,
+   69,
+   37
+  ],
+  "border": null
+ },
+ "checkbox": {
+  "rect": [
+   139,
+   223,
+   20,
+   20
+  ],
+  "border": null
+ },
+ "checkmark": {
+  "rect": [
+   164,
+   224,
+   25,
+   19
+  ],
+  "border": null
+ },
+ "input_bar_2": {
+  "rect": [
+   194,
+   209,
+   237,
+   37
+  ],
+  "border": [
+   18,
+   18,
+   14,
+   14
+  ]
+ },
+ "circle_gold": {
+  "rect": [
+   118,
+   244,
+   326,
+   262
+  ],
+  "border": null
+ },
+ "grass_left": {
+  "rect": [
+   0,
+   449,
+   116,
+   50
+  ],
+  "border": null
+ },
+ "grass_right": {
+  "rect": [
+   394,
+   449,
+   91,
+   50
+  ],
+  "border": null
+ },
+ "banner": {
+  "rect": [
+   0,
+   466,
+   485,
+   92
+  ],
+  "border": [
+   120,
+   120,
+   30,
+   45
+  ]
+ },
+ "panel_beige": {
+  "rect": [
+   37,
+   552,
+   409,
+   20
+  ],
+  "border": [
+   15,
+   15,
+   15,
+   15
+  ]
+ },
+ "strip_right": {
+  "rect": [
+   486,
+   1,
+   36,
+   431
+  ],
+  "border": [
+   16,
+   16,
+   20,
+   30
+  ]
+ }
+}
